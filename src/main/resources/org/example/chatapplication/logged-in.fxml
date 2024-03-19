@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.chatapplication.LoggedInController">
+   <children>
+      <Label fx:id="label_welcome" layoutX="252.0" layoutY="51.0" text="Welcome!">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="20.0" />
+         </font>
+      </Label>
+      <Label fx:id="label_fav_channel" layoutX="162.0" layoutY="142.0" text="You favorite channal is here!">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="20.0" />
+         </font>
+      </Label>
+      <Button fx:id="button_logout" layoutX="238.0" layoutY="231.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="123.0" style="-fx-background-color: #FED700;" text="Logout">
+         <font>
+            <Font name="Arial Rounded MT Bold" size="16.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
