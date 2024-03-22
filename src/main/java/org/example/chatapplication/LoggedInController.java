@@ -24,16 +24,15 @@ public class LoggedInController implements Initializable {
         // CLICK THE BUTTON LOG OUT TO GO MAIN PAGE
         button_logout.setOnAction(new EventHandler<ActionEvent>() {
             @Override
-            public void handle(ActionEvent actionEvent) {
-
+            public void handle(ActionEvent event) {
+                DBUtils.changeScene(event, "hello-view", "Log in Page!", null, null);
             }
         });
-
     }
 
     // TO SHOW WELCOME + USERNAME DASHBOARD
     public void setUserInformation(String username, String favChannel){
-        label_welcome.setText("Welcome" + username + "!");
+        label_welcome.setText("Welcome " + username + "!");
         label_fav_channel.setText("Your favorite YouTube channel is " + favChannel + "!");
     }
 }

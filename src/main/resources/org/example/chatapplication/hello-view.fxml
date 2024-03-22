@@ -5,7 +5,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.chatapplication.HelloController">
    <children>
       <AnchorPane prefHeight="400.0" prefWidth="257.0" style="-fx-background-color: #FED700;">
          <children>
@@ -45,7 +45,7 @@
             </Label>
             <TextField fx:id="tf_username" layoutX="111.0" layoutY="162.0" prefHeight="31.0" prefWidth="238.0" promptText="Username" />
             <TextField fx:id="tf_password" layoutX="111.0" layoutY="205.0" prefHeight="31.0" prefWidth="238.0" promptText="Password" />
-            <Button fx:id="button_log_in" layoutX="124.0" layoutY="277.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="171.0" style="-fx-background-color: #FED700; -fx-cursor: hand;" text="Login">
+            <Button fx:id="button_login" layoutX="124.0" layoutY="277.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="171.0" style="-fx-background-color: #FED700; -fx-cursor: hand;" text="Login">
                <font>
                   <Font name="Arial Rounded MT Bold" size="18.0" />
                </font>
