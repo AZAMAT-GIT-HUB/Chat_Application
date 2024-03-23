@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cdcfa38-2fba-4c16-b297-318f0267113b" name="Changes" comment="Commit updated2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/DBUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/DBUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/lock_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/lock_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/page.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/page.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/pagelogo-removebg-preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/pagelogo-removebg-preview.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/sign-up.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/sign-up.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="8cdcfa38-2fba-4c16-b297-318f0267113b" name="Changes" comment="Commit updated last" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +120,7 @@
       <workItem from="1710957039631" duration="1784000" />
       <workItem from="1710958846408" duration="17700000" />
       <workItem from="1711216152120" duration="938000" />
-      <workItem from="1711217105011" duration="1879000" />
+      <workItem from="1711217105011" duration="2285000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -155,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711216279521</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit updated last">
+      <option name="closed" value="true" />
+      <created>1711219382364</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711219382364</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +165,8 @@
     <MESSAGE value="Commit" />
     <MESSAGE value="Commit updated" />
     <MESSAGE value="Commit updated2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit updated2" />
+    <MESSAGE value="Commit updated last" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit updated last" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
