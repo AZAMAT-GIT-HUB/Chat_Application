@@ -11,7 +11,7 @@
          <children>
             <ImageView fitHeight="153.0" fitWidth="177.0" layoutX="18.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../../../java/org/example/chatapplication/pagelogo-removebg-preview.png" />
+                  <Image url="@pagelogo-removebg-preview.png" />
                </image>
             </ImageView>
             <Label layoutX="25.0" layoutY="234.0" text="(777) - 777 - 7777">

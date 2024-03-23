@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cdcfa38-2fba-4c16-b297-318f0267113b" name="Changes" comment="Commit updated">
+    <list default="true" id="8cdcfa38-2fba-4c16-b297-318f0267113b" name="Changes" comment="Commit updated2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/DBUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/DBUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/lock_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/lock_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/page.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/page.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/chatapplication/pagelogo-removebg-preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/pagelogo-removebg-preview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/sign-up.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/chatapplication/sign-up.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +29,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AZAMAT-GIT-HUB&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="924c1146-501b-41ec-85bc-45ebf2e314ad" />
+        <option name="url" value="https://github.com/AZAMAT-GIT-HUB/Chat_Application.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -42,27 +62,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.HelloApplication.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JAVA_CLASS/CHAT/ChatApplication/lib/mysql-connector-j-8.3.0.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.23333333",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JAVA_CLASS/CHAT/ChatApplication/lib/mysql-connector-j-8.3.0.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.23333333&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA_CLASS\CHAT\ChatApplication\src\main\resources\org\example\chatapplication" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.chatapplication.HelloApplication" />
@@ -103,6 +128,8 @@
       <workItem from="1710883941200" duration="5054000" />
       <workItem from="1710957039631" duration="1784000" />
       <workItem from="1710958846408" duration="17700000" />
+      <workItem from="1711216152120" duration="938000" />
+      <workItem from="1711217105011" duration="1879000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -120,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711148517879</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit updated2">
+      <option name="closed" value="true" />
+      <created>1711216279521</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711216279521</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +165,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit" />
     <MESSAGE value="Commit updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit updated" />
+    <MESSAGE value="Commit updated2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit updated2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
